@@ -268,4 +268,15 @@ footer {
     margin-top: 15px;
     font-weight: bold;
 }
+    .call-btn {
+    display: inline-block;
+    background: #d4af37;
+    color: black;
+    padding: 15px 30px;
+    border-radius: 30px;
+    text-decoration: none;
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    }
 }
