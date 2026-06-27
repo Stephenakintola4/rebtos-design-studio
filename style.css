@@ -304,4 +304,13 @@ footer {
     max-height: 150px !important;
     object-fit: contain;
     }
+    .contact a {
+    color: #d4af37;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contact p {
+    margin: 15px 0;
+}
 }
