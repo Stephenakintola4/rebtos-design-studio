@@ -285,4 +285,10 @@ footer {
     display: block;
     margin: 0 auto;
     }
+    .logo {
+    width: 80px !important;
+    height: auto !important;
+    display: block;
+    margin: 10px auto;
+}
 }
