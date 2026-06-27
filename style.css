@@ -291,4 +291,11 @@ footer {
     display: block;
     margin: 10px auto;
 }
+    .logo {
+    width: 150px;
+    max-width: 80%;
+    height: auto;
+    margin: 20px auto;
+    display: block;
+    }
 }
