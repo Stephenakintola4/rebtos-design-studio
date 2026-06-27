@@ -319,4 +319,19 @@ footer {
     object-fit: cover;
     border-radius: 15px;
     }
+    @media (max-width: 600px) {
+    h1 {
+        font-size: 35px;
+    }
+
+    .work {
+        width: 90%;
+        margin: 15px auto;
+    }
+
+    .main-btn,
+    .whatsapp-btn {
+        width: 90%;
+    }
+}
 }
