@@ -298,4 +298,10 @@ footer {
     margin: 20px auto;
     display: block;
     }
+    .brand img {
+    width: 150px !important;
+    height: auto !important;
+    max-height: 150px !important;
+    object-fit: contain;
+    }
 }
