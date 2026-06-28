@@ -363,5 +363,11 @@ footer {
     font-weight: bold;
     z-index: 1000;
 }
+        a.floating-whatsapp {
+    background-color: #25D366 !important;
+    color: white !important;
+    border: none !important;
+    box-shadow: none !important;
+        }
 }
 }
