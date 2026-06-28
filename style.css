@@ -409,5 +409,12 @@ footer{
     text-decoration: none !important;
     font-weight: bold !important;
 }
+        .floating-whatsapp,
+.floating-whatsapp a {
+    background-color: #25D366 !important;
+    color: white !important;
+    border: none !important;
+    text-decoration: none !important;
+}
 }
 }
