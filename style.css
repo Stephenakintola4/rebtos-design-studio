@@ -439,5 +439,15 @@ footer{
     font-weight: bold;
     z-index: 9999;
         }
+        .my-whatsapp,
+.my-whatsapp:visited,
+.my-whatsapp:hover {
+    background-color: #25D366 !important;
+    color: #ffffff !important;
+    display: inline-block !important;
+    padding: 15px 20px !important;
+    border-radius: 50px !important;
+    text-decoration: none !important;
+}
 }
 }
