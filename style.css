@@ -393,5 +393,11 @@ footer{
   text-align:center;
   padding:40px 20px;
 }
+        .tagline {
+    font-size: 18px;
+    margin: 15px auto;
+    max-width: 600px;
+    line-height: 1.6;
+        }
 }
 }
