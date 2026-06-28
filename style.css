@@ -463,5 +463,15 @@ footer{
     color: white !important;
     text-decoration: none !important;
 }
+        .project-btn {
+    display: inline-block;
+    background: #d4af37;
+    color: black;
+    padding: 15px 25px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 20px;
+        }
 }
 }
