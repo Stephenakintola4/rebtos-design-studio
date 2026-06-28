@@ -521,6 +521,18 @@ footer{
     top: 0;
     z-index: 1000;
     }
+    @media (max-width: 600px) {
+
+nav a {
+    display: block;
+    margin: 10px 0;
+}
+
+header {
+    text-align: center;
+}
+
+    }
 }
 }
 }
