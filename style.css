@@ -384,5 +384,14 @@ footer {
     text-decoration: none;
     font-weight: bold;
 }
+        footer a{
+  color:#d4af37;
+  text-decoration:none;
+}
+
+footer{
+  text-align:center;
+  padding:40px 20px;
+}
 }
 }
