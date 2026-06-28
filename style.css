@@ -399,5 +399,15 @@ footer{
     max-width: 600px;
     line-height: 1.6;
         }
+        .whatsapp-btn,
+.call-btn,
+.main-btn {
+    background: #d4af37 !important;
+    color: #000 !important;
+    border-radius: 30px !important;
+    padding: 15px 25px !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+}
 }
 }
