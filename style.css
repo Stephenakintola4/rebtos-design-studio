@@ -416,5 +416,16 @@ footer{
     border: none !important;
     text-decoration: none !important;
 }
+        .floating-whatsapp {
+    position: fixed !important;
+    bottom: 20px !important;
+    right: 20px !important;
+    background: #25D366 !important;
+    color: white !important;
+    padding: 15px 20px !important;
+    border-radius: 50px !important;
+    text-decoration: none !important;
+    z-index: 9999 !important;
+        }
 }
 }
