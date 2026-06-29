@@ -531,6 +531,13 @@ nav a {
 header {
     text-align: center;
 }
+        .featured img {
+    width: 200px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 15px;
+        }
 
     }
 }
