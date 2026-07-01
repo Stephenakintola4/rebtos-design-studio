@@ -558,6 +558,18 @@ header {
     display: block !important;
     margin: 15px auto !important;
         }
+        .top-btn {
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    background: #d4af37;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    z-index: 9999;
+        }
 
     }
 }
